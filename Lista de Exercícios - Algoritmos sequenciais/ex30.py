@@ -1,4 +1,4 @@
-# Qu estão 30. Elabore um algoritmo que lê 6 números decimais e mostra a soma e a subtração dos
+# Questão 30. Elabore um algoritmo que lê 6 números decimais e mostra a soma e a subtração dos
 # valores digitados.
 
 # ENTRADA

@@ -1,4 +1,4 @@
-# Q uestão 41. Elabora um algoritmo onde o usuário informa o tamanho de um quadrado e o
+# Questão 41. Elabora um algoritmo onde o usuário informa o tamanho de um quadrado e o
 # resultado é mostrar a área e o perímetro do quadrado (Perímetro; 4 * L; área = L**2 ).
 
 # ENTRADA

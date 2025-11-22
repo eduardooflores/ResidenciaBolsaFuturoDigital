@@ -1,4 +1,4 @@
-#  Questão 69. Efetuar o cálculo do valor de uma prestação em atraso, utilizando a fórmula:
+# Questão 69. Efetuar o cálculo do valor de uma prestação em atraso, utilizando a fórmula:
 # prestação = valor + (valor * (taxa/100)*tempo)
 
 # Entrada

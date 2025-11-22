@@ -1,4 +1,4 @@
-# Qu estão 21. Um colega pediu dinheiro emprestado, você aceitou emprestar com a condição de
+# Questão 21. Um colega pediu dinheiro emprestado, você aceitou emprestar com a condição de
 # que ele irá devolver o valor emprestado com juros de 15%. Qual o valor que o colega pediu e quanto
 # ele irá devolver depois?
 

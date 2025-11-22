@@ -1,4 +1,4 @@
-#  Questão 60. Faça um programa que passa temperatura em celsius e mostra em fahrenheit.
+# Questão 60. Faça um programa que passa temperatura em celsius e mostra em fahrenheit.
 
 # ENTRADA
 C = float(input("Passe a temperatura em Celcius: "))

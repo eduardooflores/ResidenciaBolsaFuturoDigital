@@ -1,4 +1,4 @@
-# Qu estão 34. Elabore um algoritmo que converta um valor em dólar (U$) para real (R$).
+# Questão 34. Elabore um algoritmo que converta um valor em dólar (U$) para real (R$).
 # O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares a ser convertida.
 
 # ENTRADA

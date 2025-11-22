@@ -1,4 +1,4 @@
-# Q uestão 72. Um hotel deseja fazer uma promoção especial de final de semana, concedendo um
+# Questão 72. Um hotel deseja fazer uma promoção especial de final de semana, concedendo um
 # desconto de 25% na diária. O usuário informará o número de apartamentos do hotel e o valor da
 # diária por apartamento por final de semana. Elabore um algoritmo para calcular:
 # • Valor promocional da diária;

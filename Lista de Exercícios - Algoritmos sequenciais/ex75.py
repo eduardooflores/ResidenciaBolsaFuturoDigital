@@ -1,4 +1,4 @@
-#  Questão 75. Desenvolva um programa que, dado um número de conta corrente com três dígitos,
+# Questão 75. Desenvolva um programa que, dado um número de conta corrente com três dígitos,
 # retorna o valor do dígito verificador, o qual é calculado da seguinte forma: Exemplo: número da
 # conta: 235
 # • Somar o número da conta com o seu inverso: 235 + 532 = 767

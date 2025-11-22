@@ -1,4 +1,4 @@
-# Q uestão 66. Faça um algoritmo que lê o público total de um jogo de futebol e fornece a renda do
+# Questão 66. Faça um algoritmo que lê o público total de um jogo de futebol e fornece a renda do
 # jogo, sabendo que havia 4 tipos de ingressos assim distribuídos: popular - 10% a R$1,00, geral - 50%
 # a R$5,00, arquibancada - 30% a R$10,00 e cadeiras - 10% a R$20,00.
 

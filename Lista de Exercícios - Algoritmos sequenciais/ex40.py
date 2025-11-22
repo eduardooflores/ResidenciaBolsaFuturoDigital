@@ -1,4 +1,4 @@
-# Q uestão 40. Elabora um algoritmo onde o usuário informa a base e a altura de um retângulo e ao
+# Questão 40. Elabora um algoritmo onde o usuário informa a base e a altura de um retângulo e ao
 # final imprime a área.
 
 # ENTRADA

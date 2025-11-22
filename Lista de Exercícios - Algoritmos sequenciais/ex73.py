@@ -1,4 +1,4 @@
-#  Questão 73. Um hotel com 42 apartamentos resolveu fazer promoções para os fins de semana fora
+# Questão 73. Um hotel com 42 apartamentos resolveu fazer promoções para os fins de semana fora
 # da alta temporada, isto é, nos meses de abril, maio, junho, agosto, setembro, outubro e novembro.
 # A taxa da promoção é de 22% da diária normal. A ocupação média do hotel sem promoção é de 40%.
 # A expectativa é aumentar a taxa de ocupação para 70%. Supondo que as expectativas se confirmem,

@@ -1,4 +1,4 @@
-# Q uestão 28. Lê dois números e mostra soma. Antes do resultado, deverá aparecer a mensagem:
+# Questão 28. Lê dois números e mostra soma. Antes do resultado, deverá aparecer a mensagem:
 # SOMA.
 
 # ENTRADA

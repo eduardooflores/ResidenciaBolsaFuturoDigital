@@ -1,4 +1,4 @@
-#  Questão 5. Faça um Programa que converta metros para centímetros.
+# Questão 5. Faça um Programa que converta metros para centímetros.
 
 metros = 1.80
 

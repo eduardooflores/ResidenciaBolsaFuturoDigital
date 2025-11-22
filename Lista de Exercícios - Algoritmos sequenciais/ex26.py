@@ -1,4 +1,4 @@
-#  Questão 26. Mostrar a média aritmética entre 3 números informados pelo usuário.
+# Questão 26. Mostrar a média aritmética entre 3 números informados pelo usuário.
 
 # ENTRADA
 primeiro_numero = int(input("Digite o primeiro número: "))

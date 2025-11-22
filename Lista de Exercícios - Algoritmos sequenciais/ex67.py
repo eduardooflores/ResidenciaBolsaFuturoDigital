@@ -1,4 +1,4 @@
-#  Questão 67. Antes de o racionamento de energia ser decretado, quase ninguém falava em
+# Questão 67. Antes de o racionamento de energia ser decretado, quase ninguém falava em
 # quilowatts; mas, agora, todos incorporaram essa palavra em seu vocabulário. Sabe-se que
 # 100quilowatss de energia custa um sétimo do salário mínimo, fazer um algoritmo que receba o valor
 # do salário mínimo e a quantidade de quilowatts gasta por uma residência e calcule. Imprima:
