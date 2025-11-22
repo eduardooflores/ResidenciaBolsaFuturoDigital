@@ -1,4 +1,4 @@
-# Questão 65. O coração humano bate em média uma vez por segundo. Desenvolva um algoritmo
+#  Questão 65. O coração humano bate em média uma vez por segundo. Desenvolva um algoritmo
 # para calcular e mostrar quantas vezes o coração de uma pessoa baterá se viver X anos. Considere
 # como dado de entrada a idade da pessoa. Considerações: 1 ano = 365,25 dias, 1 dia = 24 horas, 1
 # hora = 60 minutos e 1 minuto = 60 segundos

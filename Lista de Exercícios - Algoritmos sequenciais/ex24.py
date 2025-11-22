@@ -1,4 +1,4 @@
-# Questão 24. Lê três números e mostra a soma dos dois primeiros números lidos, a subtração dos
+# Q uestão 24. Lê três números e mostra a soma dos dois primeiros números lidos, a subtração dos
 # dois últimos números lidos e a multiplicação dos 3 números.
 
 # ENTRADA

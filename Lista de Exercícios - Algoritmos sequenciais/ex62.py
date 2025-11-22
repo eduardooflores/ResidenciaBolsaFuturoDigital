@@ -1,4 +1,4 @@
-# Questão 62. Elabore um algoritmo que calcule a área de um círculo qualquer de raio fornecido.
+#  Questão 62. Elabore um algoritmo que calcule a área de um círculo qualquer de raio fornecido.
 
 # ENTRADA
 raio = float(input("Digite o raio do círculo: "))

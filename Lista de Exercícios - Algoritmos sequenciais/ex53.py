@@ -1,4 +1,4 @@
-# Questão 53. Escreva um algoritmo para ler o salário mensal e o percentual de reajuste. Calcular e
+#  Questão 53. Escreva um algoritmo para ler o salário mensal e o percentual de reajuste. Calcular e
 # escrever o valor do novo salário.
 # [Exemplo de dados de entrada]
 # 500 (salário mensal)

@@ -1,4 +1,4 @@
-# Questão 36. Elabore um algoritmo que lê o raio de um círculo e mostre como saída o perímetro e
+# Que stão 36. Elabore um algoritmo que lê o raio de um círculo e mostre como saída o perímetro e
 # a área.
 
 # ENTRADA

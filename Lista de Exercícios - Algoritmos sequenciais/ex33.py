@@ -1,4 +1,4 @@
-# Questão 33. Elabore um algoritmo que lê dois números e mostre os seguintes resultados:
+# Q uestão 33. Elabore um algoritmo que lê dois números e mostre os seguintes resultados:
 # Dividendo, Divisor, Quociente, Resto.
 
 # ENTRADA

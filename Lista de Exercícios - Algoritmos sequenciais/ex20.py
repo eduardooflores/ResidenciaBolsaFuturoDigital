@@ -1,4 +1,4 @@
-# Questão 20. Elabore um algoritmo que lê 3 valores, mostra os 3 valores, a soma e o produto.
+# Qu estão 20. Elabore um algoritmo que lê 3 valores, mostra os 3 valores, a soma e o produto.
 
 # ENTRADA
 primeiro_valor = 10

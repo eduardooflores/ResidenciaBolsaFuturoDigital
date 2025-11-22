@@ -1,4 +1,4 @@
-# Questão 74. Faça um algoritmo que leia a quantidade de DVDs que uma locadora possui e o valor
+#  Questão 74. Faça um algoritmo que leia a quantidade de DVDs que uma locadora possui e o valor
 # que ela cobra por cada aluguel, mostrando ao final as informações de acordo com as questões:
 # • Sabe-se que um terço dos DVDs são alugadas por mês, mostre o faturamento anual da
 # locadora;

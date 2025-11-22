@@ -1,4 +1,4 @@
-# Questão 71. Faça um algoritmo que lê o peso (só a parte inteira) e calcula:
+#  Questão 71. Faça um algoritmo que lê o peso (só a parte inteira) e calcula:
 # • o peso da pessoa em gramas
 # • novo peso, considerando que a pessoa pode engordar 12%
 # • novo peso, onde a pessoa passará o valor em % do que engordou

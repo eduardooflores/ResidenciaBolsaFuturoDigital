@@ -1,4 +1,4 @@
-# Questão 57. Um motorista de taxi deseja calcular o rendimento de seu carro na praça. Sabendose que o preço
+# Q uestão 57. Um motorista de taxi deseja calcular o rendimento de seu carro na praça. Sabendose que o preço
 # do combustível é de R$ 2,50, escreva um algoritmo para ler: a marcação do odômetro
 # (Km) no início do dia, a marcação (Km) no final do dia, o número de litros de combustível gasto e o
 # valor total (R$) recebido dos passageiros. Calcular e escrever: a média do consumo em Km/L e o

@@ -1,4 +1,4 @@
-# Entrada: hora e minuto
+# En trada: hora e minuto
 hora = int(input("Digite a hora (0 a 23): "))
 minuto = int(input("Digite os minutos (0 a 59): "))
 

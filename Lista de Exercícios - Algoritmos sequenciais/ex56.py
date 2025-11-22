@@ -1,4 +1,4 @@
-# Questão 56. Escreva um algoritmo para ler o número de eleitores de um município, o número de
+# Q uestão 56. Escreva um algoritmo para ler o número de eleitores de um município, o número de
 # votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação
 # ao total de eleitores.
 # [Exemplo de dados de entrada]

@@ -1,4 +1,4 @@
-# Questão 70. Crie um algoritmo que leia uma hora do dia e informe quantos minutos se passaram
+#  Questão 70. Crie um algoritmo que leia uma hora do dia e informe quantos minutos se passaram
 # desde o início do dia.
 
 # ENTRADA

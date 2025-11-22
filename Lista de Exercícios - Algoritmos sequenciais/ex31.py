@@ -1,4 +1,4 @@
-# Questão 31. Entre com uma data e mostre a data no formato: DD/MM/ANO
+# Q uestão 31. Entre com uma data e mostre a data no formato: DD/MM/ANO
 
 # ENTRADA
 data_dia = 20
