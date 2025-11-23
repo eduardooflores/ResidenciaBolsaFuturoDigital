@@ -9,6 +9,19 @@ desenvolvimento de soluções tecnológicas inovadoras.
 Este repositório reúne os projetos e trabalhos realizados durante a residência, 
 servindo como portfólio e registro da evolução ao longo do programa.
 </p>
+
+<h2>Tecnologias</h2>
+<p>O programa ensina e utiliza as seguintes tecnologias e conceitos:</p>
+<ul>
+  <li><strong>Python 3</strong></li>
+  <li><strong>Django</strong></li>
+  <li>WebServices</li>
+  <li>Lógica de Programação</li>
+  <li>Orientação a Objetos (OOP)</li>
+  <li>Banco de Dados - Relacionais</li>
+  <li>Padrões de Desenvolvimento de Software</li>
+</ul>
+
 <h2>Estrutura do Repositório</h2>
 <ul>
   <li>Lista de Exercícios - Algoritmos sequenciais | Arquivos com exercícios de lógica</li>
