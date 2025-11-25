@@ -31,3 +31,5 @@ servindo como portfólio e registro da evolução ao longo do programa.
   <li>Lista de Exercícios Condicionais - Definições | Arquivos com exercícios elaborados sobre Decisão</li>
   <li>Atividade OO | Atividade Orientação a Objetos</li>
 </ul>
+<p>Em cada <strong>Lista de Exercícios <strong> é possível encontrar um aquivo PDF com os exercícios propostos.</p>
+
