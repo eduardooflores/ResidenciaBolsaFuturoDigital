@@ -1,17 +1,3 @@
-# Questão 91. Faça um algoritmo que leia 5 notas obtidas por um aluno em 5 avaliações. Calcule a
-# média usando a seguinte equação:
-# • Média = ( N1 + N2 + N3 + N4 + N5) / 5
-# • A seguir mostre a média e a situação do aluno baseado na tabela:
-# Nota/Média  Situação
-# 0,1 a 2     Nota PÉSSIMA
-# 2,1 a 4     Nota MUITO RUIM
-# 4,1 a 6     Nota de quem NÃO ESTUDOU O SUFICIENTE
-# 6,1 a 7     Nota NO LIMITE
-# 7,1 a 8     Nota BOA, pode melhorar
-# 8,1 a 9     Nota MUITO BOA!
-# 9,1 a 9,7   Nota QUASE EXCELENTE
-# Acima de 9,8 Nota na DISPUTA PELA COXINHA! :-)
-
 # ENTRADA
 n1 = float(input("Digite a primeira nota: "))
 n2 = float(input("Digite a segunda nota: "))

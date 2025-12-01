@@ -1,6 +1,3 @@
-# Questão 41. Elabora um algoritmo onde o usuário informa o tamanho de um quadrado e o
-# resultado é mostrar a área e o perímetro do quadrado (Perímetro; 4 * L; área = L**2 ).
-
 # ENTRADA
 tamanho_quadrado = float(input("Digite o tamanho do quadrado: "))
 

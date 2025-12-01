@@ -1,6 +1,3 @@
-# Questão 25. Elabore um algoritmo que lê 3 valores, mostra a soma do 1o e do 3o valor, a divisão
-# do 3o pelo 2o valor, o produto do 1o e 2o valor e a subtração do 2o e 3o valor.
-
 # ENTRADA
 primeiro_valor = 10
 segundo_valor = 5

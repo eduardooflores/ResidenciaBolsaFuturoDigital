@@ -1,10 +1,3 @@
-# Questão 75. Faça um algoritmo que ao entrar com a sigla do estado, retorna uma das mensagens:
-# • RS – gaúcho
-# • RJ – carioca
-# • SP – paulista
-# • MG – mineiro
-# • Outros estados
-
 # ENTRADA
 sigla_estado = input("Digite a sigla de um estado (RJ): ").upper()
 

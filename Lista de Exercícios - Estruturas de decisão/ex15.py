@@ -1,5 +1,3 @@
-# Questão 15. Faça um algoritmo que leia um número e mostre se ele é divisível por 5 OU por 9.
-
 # ENTRADA
 numero = int(input("Digite um número inteiro: "))
 

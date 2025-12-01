@@ -1,12 +1,3 @@
-# Questão 62. Faça um programa para ler a idade de 5 alunos e mostrar um mensagem ao final de
-# acordo com as instruções:
-# • Se a média de idade dos alunos for inferior de 25, apresentar a mensagem "Turma Jovem"e
-# a idade de cada aluno.
-# • Se a média de idade dos alunos está entre 25 e 40, apresentar a mensagem "Turma
-# Adulta"e a média das idades.
-# • Se a média de idade dos alunos está acima de 40 anos, apresentar a mensagem "Turma
-# Idosa", mostrar a média das idades e a idade de cada aluno.
-
 # ENTRADA
 idade_primeiro_aluno = int(input("Digite a idade do primeiro aluno: "))
 idade_segundo_aluno = int(input("Digite a idade do segundo aluno: "))

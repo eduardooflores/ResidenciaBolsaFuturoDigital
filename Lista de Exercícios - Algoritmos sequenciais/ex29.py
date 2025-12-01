@@ -1,6 +1,3 @@
-# Questão 29. Elabore um algoritmo que lê um número, mostra a metade e a terça parte deste
-# número.
-
 # ENTRADA
 numero = 30
 

@@ -1,8 +1,3 @@
-# Questão 63. Considerando uma eleição com 2 candidatos, elabore um algoritmo que lê o número
-# total de eleitores, o número de votos do 1o candidato e o número de votos do 2o candidato. O
-# algoritmo deverá apresentar o percentual de votos de cada um dos candidatos e o percentual de
-# votos nulos.
-
 # ENTRADA
 numero_total_eleitores = int(input("Digite o número total de eleitores: "))
 votos_primeiro_candidato = int(input("Digite a quantidade de votos do primeiro candidato: "))

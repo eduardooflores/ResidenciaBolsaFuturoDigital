@@ -1,6 +1,3 @@
-# Questão 30. Elabore um algoritmo que lê 6 números decimais e mostra a soma e a subtração dos
-# valores digitados.
-
 # ENTRADA
 numero1 = 10.5
 numero2 = 5.6

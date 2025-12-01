@@ -1,6 +1,3 @@
-# Questão 33. Elabore um algoritmo que lê dois números e mostre os seguintes resultados:
-# Dividendo, Divisor, Quociente, Resto.
-
 # ENTRADA
 numero = 10
 segundo_numero = 20

@@ -1,6 +1,3 @@
-# Questão 37. Elabore um algoritmo que calcula e mostra a média das notas de todos os alunos de
-# Algoritmos e Lógica de Programação.
-
 #ENTRADA
 nome = input("Digite seu nome: ")
 nota_1 = float(input("Digite a primeira nota: "))

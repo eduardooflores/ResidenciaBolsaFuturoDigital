@@ -1,10 +1,3 @@
-# Questão 75. Desenvolva um programa que, dado um número de conta corrente com três dígitos,
-# retorna o valor do dígito verificador, o qual é calculado da seguinte forma: Exemplo: número da
-# conta: 235
-# • Somar o número da conta com o seu inverso: 235 + 532 = 767
-# • Multiplicar cada dígito pela sua ordem posicional e somar estes resultados: 7 6 7 (7 * 1) + (7
-# * 2) + (7 * 3) = 40 • O último digito desse resultado é o dígito verificador da conta (40 -> 0)
-
 # ENTRADA
 numero_conta = int(input("Digite o número da conta com três dígitos (exemplo: 235): "))
 

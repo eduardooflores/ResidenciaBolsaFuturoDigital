@@ -1,6 +1,3 @@
-# Questão 36. Elabore um algoritmo que lê o raio de um círculo e mostre como saída o perímetro e
-# a área.
-
 # ENTRADA
 raio_circulo = 20
 PI = 3.14

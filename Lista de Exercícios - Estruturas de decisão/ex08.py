@@ -1,6 +1,3 @@
-# Questão 8. Faça um algoritmo que leia três valores e indica quantos são pares e quantos são
-# ímpares.
-
 contador_par = 0
 contador_impar = 0
 

@@ -1,6 +1,3 @@
-# Questão 24. Lê três números e mostra a soma dos dois primeiros números lidos, a subtração dos
-# dois últimos números lidos e a multiplicação dos 3 números.
-
 # ENTRADA
 primeiro_numero = 5
 segundo_numero = 10

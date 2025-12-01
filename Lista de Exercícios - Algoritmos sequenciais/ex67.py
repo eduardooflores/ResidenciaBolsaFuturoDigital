@@ -1,11 +1,3 @@
-# Questão 67. Antes de o racionamento de energia ser decretado, quase ninguém falava em
-# quilowatts; mas, agora, todos incorporaram essa palavra em seu vocabulário. Sabe-se que
-# 100quilowatss de energia custa um sétimo do salário mínimo, fazer um algoritmo que receba o valor
-# do salário mínimo e a quantidade de quilowatts gasta por uma residência e calcule. Imprima:
-# • o valor em reais de cada quilowatts
-# • o valor em reais a ser pago
-# • o novo valor a ser pago por essa residência com um desconto de 10%
-
 # ENTRADA
 DESCONTO = 0.10
 

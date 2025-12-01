@@ -1,7 +1,3 @@
-# Questão 51
-# Faça um algoritmo que leia a idade de uma pessoa expressa em dias
-# e mostre-a expressa em anos, meses e dias.
-
 # ENTRADA
 idade_dias = int(input("Digite sua idade em dias: "))
 

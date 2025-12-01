@@ -1,6 +1,3 @@
-# Questão 28. Lê dois números e mostra soma. Antes do resultado, deverá aparecer a mensagem:
-# SOMA.
-
 # ENTRADA
 primeiro_numero = 15
 segundo_numero = 20

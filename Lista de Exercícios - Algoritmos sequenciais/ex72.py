@@ -1,11 +1,3 @@
-# Questão 72. Um hotel deseja fazer uma promoção especial de final de semana, concedendo um
-# desconto de 25% na diária. O usuário informará o número de apartamentos do hotel e o valor da
-# diária por apartamento por final de semana. Elabore um algoritmo para calcular:
-# • Valor promocional da diária;
-# • Valor total a ser arrecadado caso a ocupação total (100%) seja atingida;
-# • Valor total a ser arrecadado caso a ocupação seja de 70%.
-# • Valor que o hotel deixará de arrecadar em virtude da promoção, caso a ocupação atinja 100%.
-
 # ENTRADA
 DESCONTO = 0.25
 

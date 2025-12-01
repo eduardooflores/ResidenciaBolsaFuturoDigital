@@ -1,6 +1,3 @@
-# Questão 3. Faça um algoritmo que leia um número e mostrar se ele é positivo, negativo ou igual
-# a zero.
-
 # ENTRADA
 numero = int(input("Digite um número: "))
 

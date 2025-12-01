@@ -1,14 +1,3 @@
-# Questão 74. Faça um algoritmo que leia a quantidade de DVDs que uma locadora possui e o valor
-# que ela cobra por cada aluguel, mostrando ao final as informações de acordo com as questões:
-# • Sabe-se que um terço dos DVDs são alugadas por mês, mostre o faturamento anual da
-# locadora;
-# • Quando um cliente atrasa a entrega, é cobrada uma multa de 10% sobre o valor do aluguel.
-# Sabe-se que um décimo dos DVDs alugados no mês são devolvidos com atraso, calcule o
-# valor ganho com multas por mês;
-# • Sabe-se ainda que 2% dos DVDs acabam estragando ao longo do ano, e um décimo do total
-# é comprado para reposição, mostre a quantidade de DVDs que a locadora terá no final do
-# ano.
-
 # CONSTANTES
 ATRASO = 0.10      # 10% de multa
 ESTRAGADOS = 0.02  # 2% estragam

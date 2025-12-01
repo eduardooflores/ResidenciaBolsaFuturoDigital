@@ -1,7 +1,3 @@
-# Questão 19. Elabore um algoritmo que lê 4 valores inteiros e mostra: a soma dos valores; a
-# subtração do 1o valor e o 2o valor; a multiplicação dos 3 primeiros valores digitados;a média dos
-# valores; o resultado da equação (1o valor + 2o valor) / (3o valor – 4o valor).
-
 # ENTRADA
 primeiro_valor = 5
 segundo_valor = 10

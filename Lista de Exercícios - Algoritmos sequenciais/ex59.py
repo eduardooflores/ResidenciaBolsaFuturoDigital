@@ -1,15 +1,3 @@
-# Questão 59. Uma loja vende bicicletas com um acréscimo de 50% sobre o seu preço de custo. Ela
-# paga a cada vendedor 2 salários mínimos mensais, mais uma comissão de 15% sobre o preço de
-# custo de cada bicicleta vendida, dividida igualmente entre eles. Escreva um algoritmo que leia o
-# número de empregados da loja, o valor do salário mínimo, o preço de custo de cada bicicleta, o
-# número de bicicletas vendidas, calcule e escreva: O salário final de cada empregado e o lucro (líquido)
-# da loja.
-# [Exemplo de dados de entrada]
-# 4 (quantidade de empregados da loja) 300 (valor do salário mínimo) 150 (preço de custo de cada bicicleta)
-# 200 (quantidade de bicicletas vendidas)
-# [Saída para os dados de entrada acima]
-# 1725 (salário final de cada empregado) 8100 (lucro da loja)
-
 # ENTRADA
 ACRESCIMO = 0.50
 COMISSAO = 0.15

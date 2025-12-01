@@ -1,5 +1,3 @@
-# Questão 48. Lê um valor de hora e informa quantos minutos se passaram desde início do dia.
-
 # Entrada: hora e minuto
 hora = int(input("Digite a hora (0 a 23): "))
 minuto = int(input("Digite os minutos (0 a 59): "))

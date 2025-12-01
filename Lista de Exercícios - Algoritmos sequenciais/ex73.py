@@ -1,13 +1,3 @@
-# Questão 73. Um hotel com 42 apartamentos resolveu fazer promoções para os fins de semana fora
-# da alta temporada, isto é, nos meses de abril, maio, junho, agosto, setembro, outubro e novembro.
-# A taxa da promoção é de 22% da diária normal. A ocupação média do hotel sem promoção é de 40%.
-# A expectativa é aumentar a taxa de ocupação para 70%. Supondo que as expectativas se confirmem,
-# faça um algoritmo que lê o valor da diária normal, calcula o mostra as informações:
-# • O valor da diária no período da promoção;
-# • O valor médio arrecadado sem a promoção, durante um mês; o valor médio arrecadado com
-# a promoção, durante um mês;
-# • O lucro ou prejuízo mensal com a promoção.
-
 # ENTRADA
 APARTAMENTOS = 42
 PROMOCAO = 0.22

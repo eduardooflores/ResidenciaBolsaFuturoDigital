@@ -1,5 +1,3 @@
-# Questão 27. Lê um número e mostra seu sucessor e seu antecessor na tela.
-
 # ENTRADA
 numero = 10
 

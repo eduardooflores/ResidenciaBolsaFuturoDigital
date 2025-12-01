@@ -1,6 +1,3 @@
-# Questão 35. Entre com a base e a altura de um retângulo e mostre os resultados: Perímetro, Área,
-# Diagonal.
-
 # ENTRADA
 base = 20
 altura = 30

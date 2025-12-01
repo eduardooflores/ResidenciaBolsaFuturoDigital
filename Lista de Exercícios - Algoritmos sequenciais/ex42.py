@@ -1,5 +1,3 @@
-# Questão 42. Calcule e mostre a área de um triângulo e mostre a área de um losango.
-
 # ENTRADA
 base_triangulo = float(input("Digite o a base do triangulo: "))
 altura_triangulo = float(input("Digite a algura do triangulo: "))

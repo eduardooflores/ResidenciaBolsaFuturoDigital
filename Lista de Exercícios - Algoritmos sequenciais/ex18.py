@@ -1,6 +1,3 @@
-# Questão 18. Elabore um algoritmo que lê dois valores decimais e mostra a soma e o produto dos
-# valores.
-
 numero_1 = float(input("Digite um número decimal: "))
 numero_2 = float(input("Digite outro número decimal: "))
 

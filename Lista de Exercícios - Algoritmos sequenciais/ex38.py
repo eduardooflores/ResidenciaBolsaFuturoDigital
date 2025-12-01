@@ -1,5 +1,3 @@
-# Questão 38. Elabore um algoritmo que lê um número e imprime a raiz quadrada do número.
-
 # ENTRADA
 numero = int(input("Digite um número inteiro: "))
 

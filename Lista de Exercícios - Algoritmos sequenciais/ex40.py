@@ -1,6 +1,3 @@
-# Questão 40. Elabora um algoritmo onde o usuário informa a base e a altura de um retângulo e ao
-# final imprime a área.
-
 # ENTRADA
 base = float(input("Informe a base do retângulo: "))
 altura = float(input("Informe a altura do retângulo: "))

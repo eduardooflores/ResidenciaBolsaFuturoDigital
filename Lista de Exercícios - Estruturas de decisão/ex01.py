@@ -1,5 +1,3 @@
-# Questão 1. Faça um algoritmo que lê um número e verificar se ele é par ou é ímpar.
-
 # ENTRADA
 numero = int(input("Digite um número inteiro para verificar se é par ou ímpar: "))
 
