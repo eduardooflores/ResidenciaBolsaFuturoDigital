@@ -1,0 +1,6 @@
+numero = int(input("Digite um número: "))
+
+if numero % 5 == 0 or numero % 9 == 0:
+    print(f"O número {numero} é divisível por 5 ou 9")
+else:
+    print(f"O número {numero} não é divisível por 5 nem por 9")
