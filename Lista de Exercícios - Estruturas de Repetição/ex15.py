@@ -1,10 +1,19 @@
-try:
-    primeiro_valor = float(input("Digite o primeiro valor: "))
-    segundo_valor = float(input("Digite o segundo valor: "))
+flag = True
 
-    soma = primeiro_valor + segundo_valor
+while flag:
+    try:
+        numeros = []
+        primeiro_valor = int(input("Digite o primeiro valor: "))
+        segundo_valor = int(input("Digite o segundo valor: "))
 
-    print(f"A soma dos valores {primeiro_valor:.2f} + {segundo_valor:.2f} é: {soma:.2f}")
+        for numero in range(primeiro_valor, segundo_valor + 1):
+            numeros.append(numero)
 
-except ValueError:
-    print("ERRO! O valor digitado deve ser um número.")
+        total = sum(numeros)
+
+        print(f"A soma dos valores dentro do intervalo de {primeiro_valor} até {segundo_valor} é: {total}")
+
+        flag = False
+
+    except ValueError:
+        print("ERRO! O valor digitado deve ser um número inteiro.")
